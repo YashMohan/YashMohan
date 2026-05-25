@@ -7,7 +7,7 @@ Heidelberg, Germany · [LinkedIn](https://linkedin.com/in/thisisyashmohan) · [E
 
 ## About Me
 
-I work at the intersection of **probabilistic machine learning** and **physical simulation**. My research focuses on building fast ML surrogate models — Bayesian neural network emulators, Normalizing Flows, and Amortized Neural Posterior Estimation (ANPE) — that replace computationally expensive numerical simulations with accurate probabilistic surrogates.
+I work at the intersection of **probabilistic machine learning** and **physical simulation**. My research focuses on building fast ML emulators using Bayesian neural network emulators, Normalizing Flows, and Amortized Neural Posterior Estimation (ANPE) — that replace computationally expensive numerical simulations with accurate probabilistic surrogates.
 
 During my PhD, I developed a Fisher Information Matrix pipeline that demonstrated a sample of 64 quasar observations can constrain the neutral hydrogen fraction of the universe to **2% uncertainty** — comparable to dedicated 21 cm radio telescope arrays.
 
